@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -D_FILE_OFFSET_BITS=64 -ggdb -rdynamic CMakeFiles/sizes.dir/sizes.cpp.o -o /home/jarvis/Documents/sofs21-grp/bin/sizes  /home/jarvis/Documents/sofs21-grp/lib/libcore.a 

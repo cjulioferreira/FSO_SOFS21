@@ -1,0 +1,16 @@
+/home/jarvis/Documents/sofs21-grp/build/CMakeFiles/rebuild_cache.dir
+/home/jarvis/Documents/sofs21-grp/build/CMakeFiles/edit_cache.dir
+/home/jarvis/Documents/sofs21-grp/build/core/CMakeFiles/rebuild_cache.dir
+/home/jarvis/Documents/sofs21-grp/build/core/CMakeFiles/edit_cache.dir
+/home/jarvis/Documents/sofs21-grp/build/core/CMakeFiles/sizes.dir
+/home/jarvis/Documents/sofs21-grp/build/core/CMakeFiles/core.dir
+/home/jarvis/Documents/sofs21-grp/build/devtools/CMakeFiles/rebuild_cache.dir
+/home/jarvis/Documents/sofs21-grp/build/devtools/CMakeFiles/edit_cache.dir
+/home/jarvis/Documents/sofs21-grp/build/devtools/CMakeFiles/showblock.dir
+/home/jarvis/Documents/sofs21-grp/build/devtools/CMakeFiles/devtools.dir
+/home/jarvis/Documents/sofs21-grp/build/grp_src/grp_mksofs/CMakeFiles/rebuild_cache.dir
+/home/jarvis/Documents/sofs21-grp/build/grp_src/grp_mksofs/CMakeFiles/edit_cache.dir
+/home/jarvis/Documents/sofs21-grp/build/grp_src/grp_mksofs/CMakeFiles/grp_mksofs.dir
+/home/jarvis/Documents/sofs21-grp/build/mksofs/CMakeFiles/rebuild_cache.dir
+/home/jarvis/Documents/sofs21-grp/build/mksofs/CMakeFiles/edit_cache.dir
+/home/jarvis/Documents/sofs21-grp/build/mksofs/CMakeFiles/mksofs.dir

@@ -1,0 +1,27 @@
+# ninja log v5
+1	67	1634826259	devtools/CMakeFiles/devtools.dir/binselection.cpp.o	be8c4429cb517a32
+0	77	1634826259	core/CMakeFiles/core.dir/exception.cpp.o	6b0c5eb3a620d9e0
+5	80	1634826259	grp_src/grp_mksofs/CMakeFiles/grp_mksofs.dir/grp_mksofs_FBT.cpp.o	da46fbba2cc9a772
+1	81	1634826259	devtools/CMakeFiles/devtools.dir/probing.cpp.o	f469b76e673ce324
+4	85	1634826259	grp_src/grp_mksofs/CMakeFiles/grp_mksofs.dir/grp_mksofs_FRD.cpp.o	bc6d8a02f5015aab
+3	91	1634826259	grp_src/grp_mksofs/CMakeFiles/grp_mksofs.dir/grp_mksofs_FSB.cpp.o	8f6afaf749eadd
+3	101	1634826259	grp_src/grp_mksofs/CMakeFiles/grp_mksofs.dir/grp_mksofs_FIT.cpp.o	f9586f9b044f781
+5	101	1634826259	grp_src/grp_mksofs/CMakeFiles/grp_mksofs.dir/grp_mksofs_ZDB.cpp.o	32b687a29f55d613
+2	101	1634826259	devtools/CMakeFiles/showblock.dir/showblock.cpp.o	202e437077ca290a
+67	131	1634826259	mksofs/CMakeFiles/mksofs.dir/mksofs_CS.cpp.o	f3c04cac1ef92148
+6	139	1634826259	mksofs/CMakeFiles/mksofs.dir/mksofs_main.cpp.o	c92bc8877f1f195f
+85	144	1634826259	mksofs/CMakeFiles/mksofs.dir/mksofs_FBT.cpp.o	2734ed9226ddde63
+77	144	1634826259	mksofs/CMakeFiles/mksofs.dir/mksofs_FSB.cpp.o	5bdf95842459f39e
+80	147	1634826259	mksofs/CMakeFiles/mksofs.dir/mksofs_FIT.cpp.o	3a32ad8797095773
+81	153	1634826259	mksofs/CMakeFiles/mksofs.dir/mksofs_FRD.cpp.o	b09d306543d4b63e
+91	159	1634826259	mksofs/CMakeFiles/mksofs.dir/mksofs_ZDB.cpp.o	fd5e0457e7ac462c
+2	260	1634826259	grp_src/grp_mksofs/CMakeFiles/grp_mksofs.dir/grp_mksofs_CS.cpp.o	deb3f1decf91f6
+1	270	1634826259	core/CMakeFiles/sizes.dir/sizes.cpp.o	2655b838e5fd45dd
+260	270	1634826259	/media/artur/america/repos/repos-aulas/repos-2122/so-fso-2122-repos/sofs21-grp/lib/grp/libgrp_mksofs.a	dd4d9ecf7b5fd5ae
+2	283	1634826259	devtools/CMakeFiles/devtools.dir/blockviews.cpp.o	23a725b3f1a78822
+0	287	1634826259	core/CMakeFiles/core.dir/rawdisk.cpp.o	7fdaeed46a0f5f0a
+284	294	1634826259	/media/artur/america/repos/repos-aulas/repos-2122/so-fso-2122-repos/sofs21-grp/lib/libdevtools.a	83780d5d548d7840
+287	295	1634826259	/media/artur/america/repos/repos-aulas/repos-2122/so-fso-2122-repos/sofs21-grp/lib/libcore.a	84e1e280c30a7bf2
+295	380	1634826259	/media/artur/america/repos/repos-aulas/repos-2122/so-fso-2122-repos/sofs21-grp/bin/showblock	5f87d491e05c286a
+295	380	1634826259	/media/artur/america/repos/repos-aulas/repos-2122/so-fso-2122-repos/sofs21-grp/bin/sizes	80f2d1c477e20125
+295	381	1634826259	/media/artur/america/repos/repos-aulas/repos-2122/so-fso-2122-repos/sofs21-grp/bin/mksofs	330bebf257fbd8bb
